@@ -1,4 +1,4 @@
-<h1 align="center">☀️ はじめまして, I'm Law</h1>
+<h1 align="center">☀️ 👋 Hey there, I'm Law</h1>
 
 ## 🪴 About Me
 
