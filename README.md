@@ -2,9 +2,9 @@
 
 ## 🪴 About Me
 
-- 🔭 Full Stack Developer
-- 🌱 Working on something exciting in the fintech space
-- 💬 Love tooling
+- 🔭 Full Stack Engineer
+- 🌱 Fintech and startups
+- 🚀 Build / Acc.
 
 &nbsp;
 
