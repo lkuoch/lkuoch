@@ -8,7 +8,7 @@
 
 &nbsp;
 
-## 🛠️ Tools / Languages
+## 👷 Tech
 
 ![](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=22272e&logo=typescript&logoColor=#3178C6)
 ![](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=22272e&logo=go&logoColor=00a7d0)
