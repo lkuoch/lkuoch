@@ -10,7 +10,6 @@
 
 ## 🛠️ Tools / Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=22272e&logo=javascript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=22272e&logo=typescript&logoColor=#3178C6)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=22272e&logo=go&logoColor=00a7d0)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&color=22272e&logo=rust&logoColor=f74c00)
@@ -18,7 +17,11 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&color=22272e&logo=kubernetes&logoColor=#326CE5)
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&color=22272e&logo=microsoftazure&logoColor=0079d5)
 ![Aws](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=22272e&logo=amazon-aws&logoColor=fd9800)
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=22272e&logo=git)
+
+![Sentry](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=22272e&logo=sentry)
+![Datadog](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=22272e&logo=datadog)
+![Grafana](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=22272e&logo=grafana)
+![Grafana](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=22272e&logo=elastic)
 
 &nbsp;
 
