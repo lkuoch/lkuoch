@@ -9,11 +9,17 @@
 &nbsp;
 
 ## 👷 Tech
+![](https://img.shields.io/badge/-react-05122A?style=for-the-badge&color=22272e&logo=react&logoColor=#3178C6)
+![](https://img.shields.io/badge/-react_native-05122A?style=for-the-badge&color=22272e&logo=react&logoColor=#3178C6)
+![](https://img.shields.io/badge/-next-05122A?style=for-the-badge&color=22272e&logo=next.js&logoColor=#3178C6)
 
 ![](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=22272e&logo=typescript&logoColor=#3178C6)
 ![](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=22272e&logo=go&logoColor=00a7d0)
 ![](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&color=22272e&logo=rust&logoColor=f74c00)
+![](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&color=22272e&logo=csharp&logoColor=9C75D5)
+
 ![](https://img.shields.io/badge/-Postgresql-05122A?style=for-the-badge&color=22272e&logo=postgresql&logoColor=4479A1)
+![](https://img.shields.io/badge/-Mongo-05122A?style=for-the-badge&color=22272e&logo=mongodb&logoColor=#4EA94A)
 ![](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&color=22272e&logo=kubernetes&logoColor=#326CE5)
 ![](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&color=22272e&logo=microsoftazure&logoColor=0079d5)
 ![](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=22272e&logo=amazon-aws&logoColor=fd9800)
